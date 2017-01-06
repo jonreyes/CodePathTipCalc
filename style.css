@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+body{
+	background: #1af;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+form{
+	background: white;
+	padding: 0.75em;
+	border: 0.15em solid;	
+	border-radius: 1em;
+	box-shadow: 0.2em 0.2em 0.2em 0 black;
+	margin: auto;
+	display: inline-block;
+}
+
+div{
+	background: white;
+}
+
+p{
+	color: red;
+}
+
+#calc{
+	padding: 0.75em;
+	margin: auto;
+	position: center;
+}
+
+#result{
+	border: 0.15em solid;
+	padding: 0.75em;
+	color:#1af;
+}
